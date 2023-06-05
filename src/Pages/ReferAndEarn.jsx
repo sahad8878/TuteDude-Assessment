@@ -10,7 +10,7 @@ function ReferAndEarn() {
     <div className="mb-7 sm:mb-20 ">
       <Header />
       <div className="px-9 sm:px-48">
-        <div className="h-[76px]  flex  items-center shadow-sm ">
+        <div className="h-[76px]  flex  items-center  ">
           <h1 className="text-[14px] font-medium  ">
             UI/UX {">"} Refere & Earn{" "}
           </h1>

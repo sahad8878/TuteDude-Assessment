@@ -2,7 +2,7 @@ import React from "react";
 
 function WithdrowBalance() {
   return (
-    <div className="w-[358px] sm:w-[486px] bg-[#FFFFFF] rounded-xl shadow-2xl mt-5 h-[188px] grid grid-cols-2 sm:gap-0  gap-y-4 sm:grid-cols-3 sm:space-x-12 p-7">
+    <div className=" sm:w-[486px] bg-[#FFFFFF] rounded-xl shadow-2xl mt-5 h-[188px] grid grid-cols-2 sm:gap-0  gap-y-4 sm:grid-cols-3 sm:space-x-12 p-7">
       <div>
         <h1 className="text-[14px] text-[#800080] font-normal">
           Referral Earning

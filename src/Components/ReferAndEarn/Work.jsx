@@ -35,7 +35,7 @@ function Work() {
     },
   ];
   return (
-    <div className=" w-[358px] sm:w-[780px] mt-5 ">
+    <div className="  sm:w-[780px] mt-5 ">
       <div className="gap-y-6 gap-6  grid grid-cols-1 sm:grid-cols-2 ">
         {work.map((work) => (
           <div className="flex ">
