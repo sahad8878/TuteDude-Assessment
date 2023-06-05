@@ -12,7 +12,7 @@ function Header() {
         />
       </div>
       <div className="hidden sm:block mr-20 ">
-        <div className="flex space-x-11   text-[18px] text-[#80008040] font-medium">
+        <div className="flex space-x-11   text-[18px] text-[#80008040] font-medium cursor-pointer ">
           <h2>My Assignment</h2>
           <h2>Chat whith Mentor</h2>
           <div className=" text-[#800080] flex">

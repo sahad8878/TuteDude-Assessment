@@ -2,7 +2,7 @@ import React from "react";
 
 function WithdrowBalance() {
   return (
-    <div className=" sm:w-[486px] bg-[#FFFFFF] rounded-xl shadow-2xl mt-5 h-[188px] grid grid-cols-2 sm:gap-0  gap-y-4 sm:grid-cols-3 sm:space-x-12 p-7">
+    <div className=" sm:w-[486px] bg-[#FFFFFF] rounded-xl shadow-2xl mt-5 h-[188px] grid grid-cols-2 sm:gap-0  sm:gap-y-4 sm:grid-cols-3 sm:space-x-12 p-4 sm:p-7">
       <div>
         <h1 className="text-[14px] text-[#800080] font-normal">
           Referral Earning
@@ -23,7 +23,7 @@ function WithdrowBalance() {
         <h1 className="text-[32px] font-medium">$ 500</h1>
       </div>
       <div className=" flex justify-center items-center">
-        <button className="sm:-mr-64 w-[180px] text-center text-white rounded-full p-2 text-[16px] font-medium bg-[#800080] h-[40px] hover:brightness-90">
+        <button className="sm:-mr-64 sm:w-[180px] text-center text-white rounded-full p-2 sm:text-[16px] font-medium bg-[#800080] sm:h-[40px] hover:brightness-90">
           Withdraw Balance
         </button>
       </div>
